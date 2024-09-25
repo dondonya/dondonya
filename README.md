@@ -1,5 +1,7 @@
 ## Hi. I'm Donya 👋
 
+Let's connect on [twitter](https://x.com/dudedonya)
+
 <!--
 **dondonya/dondonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
